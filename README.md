@@ -123,6 +123,7 @@ information.
 ## FAQ
 
 Q. How do I see my tiles?
+
 A. Change the bin/start file to:
 ./bin/decentraland-node --fast --port=2301 --prefix="data" --httpport=8301 --n=testnet --apikey="hunter2" --contentport=9301 --startminer
 Then enter this command:
